@@ -26,12 +26,12 @@ h2{
 }
 
 .bg-success{
-  background-color: #87900d !important;
+  background-color: green !important;
   color: black;
 }
 
 .bg-failed{
-  background-color: #B20600 !important;
+  background-color: red!important;
   font-size: larger;
 }
 
